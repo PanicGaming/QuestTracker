@@ -21,7 +21,7 @@ namespace QuestTracker
             this.status = quest.Status;
         }
 
-        public void complete()
+        public void Complete()
         {
             switch(status)
             {
