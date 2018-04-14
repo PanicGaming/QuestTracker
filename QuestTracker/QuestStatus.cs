@@ -2,6 +2,6 @@
 {
     public enum QuestStatus
     {
-        New,Failed,Completed,Abandoned;
+        New,Failed,Completed,Abandoned
     }
 }
